@@ -1,0 +1,46 @@
+_repo: A-Day-with-the-Poet-Tennyson_40442
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Tennyson, Alfred Tennyson, Baron
+    alias: Tennyson, Alfred Lord
+    birthdate: 1809
+    deathdate: 1892
+    gutenberg_agent_id: '2987'
+    url: http://www.gutenberg.org/2009/agents/2987
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Tennyson%2C_1st_Baron_Tennyson
+  illustrators:
+  - agent_name: Margetson, W. H. (William Henry)
+    alias: Margetson, William Henry
+    birthdate: 1861
+    deathdate: 1940
+    gutenberg_agent_id: '37966'
+    url: http://www.gutenberg.org/2009/agents/37966
+  - agent_name: Haslehust, E. W.
+    aliases:
+    - Haslehurst, Ernest William
+    - Haslehust, Ernest William
+    - Haslehurst, E. W.
+    birthdate: 1866
+    deathdate: 1949
+    gutenberg_agent_id: '26576'
+    url: http://www.gutenberg.org/2009/agents/26576
+    wikipedia: https://en.wikipedia.org/wiki/Ernest_William_Haslehust
+covers:
+- cover_type: archival
+  image_path: 40442-h/images/cover.jpg
+description: ''
+gutenberg_issued: '2012-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40442'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Tennyson, Alfred Tennyson, Baron, 1809-1892'
+- !lcsh 'English poetry -- 19th century'
+title: A Day with the Poet Tennyson
+url: http://www.gutenberg.org/ebooks/40442
